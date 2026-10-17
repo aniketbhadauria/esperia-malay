@@ -1,17 +1,17 @@
 const links = [
   {
     no: "001",
-    site: "gelugor-insights-hub",
-    href: "https://vercel.com/aniket-s-projects-8b2f165d/gelugor-insights-hub",
+    site: "Esperia Insights Hub",
+    href: "https://esperia-insights-hub.vercel.app/",
   },
   {
     no: "002",
-    site: "Suara DUN",
+    site: "Ahli Dewan Undangan Negeri",
     href: "https://suara-dun.vercel.app/",
   },
   {
     no: "003",
-    site: "Parlimen portal",
+    site: "Menteri Besar",
     href: "https://parlimen-portal.vercel.app/",
   },
   {
@@ -21,7 +21,7 @@ const links = [
   },
   {
     no: "005",
-    site: "Uniread Hub",
+    site: "E-library",
     href: "https://uniread-hub.vercel.app/",
   },
   {
